@@ -1,8 +1,8 @@
 # AIFaceDetectionProyect
-Este es mi proyecto final de la materia de Inteligencial Artificial.
-El tema de este proyecto es una app usando Inteligencia artificial para la deteccion de rostros tanto en fotos como en video en la plataforma de Google Colab
+This is my final project for the subject of Artificial Intelligence.
+The theme of this project is an app using artificial intelligence for face detection in both photos and video on the Google Colab platform.
 
-Para correr el programa unicamente puede usar el boton de Open Colab dentro del proyecto como tambien hacer un "git clone" dentro de su Google Colab
+To run the program you can only use the Open Colab button within the project as well as make a "git clone" within your Google Colab
 
-Saludos!
+enjoy it!
 Developer: Osvaldo Nicolas Barbery Merida
